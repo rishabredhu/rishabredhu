@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rishabredhu
 - 👀 I’m interested in data analysis, machine learning and full-stack developement
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently trying to autmate the job application process
 - 📫 How to reach me: rishabredhu7@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Update: After losing access to my previous github (https://github.com/rishab-redhu), I have created this new one to continue developing new projects. 
