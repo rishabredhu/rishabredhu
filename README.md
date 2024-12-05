@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rishabredhu
+- 👋 Hi, I’m Rishab
 - 👀 I’m interested at the intersection of data/infra/AI/Human Interaction. 
-- 🌱 I’m currently interested in exploring 3D Space/AI/UI
+- 🌱 I’m currently interested in exploring Intuitve UI
 - 📫 www.rishabredhu.com
 <!---
 rishabredhu/rishabredhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
